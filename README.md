@@ -3,13 +3,13 @@
 >  This repository is used for proposing and tracking the state of modules, tracking issues and feature requests as well as hosting documentation for the Azure Verified Modules (AVM) project. If you are looking for the AVM code repositories, please visit the Bicep and Terraform [module indexes](https://azure.github.io/Azure-Verified-Modules/indexes/) on the AVM portal for references.
 <!-- markdownlint-restore -->
 
-# Azure Verified Modules (AVM)
+# Azure Verified Modules (AVM) 
 <!-- [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/azure/azure-verified-modules.svg)](http://isitmaintained.com/project/azure/azure-verified-modules "Average time to resolve an issue")
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/azure/azure-verified-modules.svg)](http://isitmaintained.com/project/azure/azure-verified-modules "Percentage of issues still open") -->
 
 <img src="docs/static/img/avm_logo.png" width=20% align=right>
 
-**Welcome to the Azure Verified Modules (AVM) repository!**
+**Welcome to the Azure Verified Modules (AVM) repository!** BLABLABLA
 
 Azure Verified Modules (AVM), as "One Microsoft", we want to provide and define the single definition of what a good IaC module is;
 
